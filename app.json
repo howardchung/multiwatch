@@ -1,0 +1,23 @@
+{
+  "name": "multiwatch",
+  "displayName": "MultiStopwatch",
+  "expo": {
+    "name": "MultiStopwatch",
+    "slug": "multiwatch",
+    "icon": "./images/stopwatch-solid.png",
+    "version": "1.0.1",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "io.gravitech.multiwatch",
+      "versionCode": 2,
+      "permissions": []
+    }
+  }
+}
